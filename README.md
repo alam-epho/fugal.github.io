@@ -1,0 +1,2 @@
+# fugal.github.io
+Fugal
